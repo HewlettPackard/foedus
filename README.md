@@ -27,9 +27,10 @@ Especially, start with reading READMEs in these folders:
 
 Links
 --------
-So far all in private network. Trying to migrate to public cloud.
+Most Jenkins services were migrated to public cloud, but aarch64 server is still in private network.
 
+* [FOEDUS Jenkins server (x86_64 Fedora 21)](http://http://foedus-build.hpl.hp.com:8080/)
+* [FOEDUS Jenkins server (x86_64 Ubuntu 1504)](http://http://foedus-build-ub.hpl.hp.com:8080/)
+* [FOEDUS Latest Doxygen HTML](http://http://foedus-build.hpl.hp.com:8080/job/foedus-develop-doxygen/doxygen/)
 * [HP Labs](http://www.hpl.hp.com/) **We are hiring**.
-* [FOEDUS Jenkins server (x86_64)](http://243-1.bfc.hpl.hp.com:8080/) (so far private)
 * [FOEDUS Jenkins server (aarch64)](http://ms01915-003.hpl.hp.com:8080/) (so far private)
-* [FOEDUS Latest Doxygen HTML](http://243-1.bfc.hpl.hp.com:8080/job/foedus-develop-doxygen/doxygen/) (so far private)
