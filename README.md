@@ -23,7 +23,7 @@ Most of you would be only interested in [foedus_code](https://github.com/hkimura
 Especially, start with reading READMEs in these folders:
 
 *  [foedus_code](https://github.com/hkimura/foedus_code).
-*  [foedus_code/foedus-core](https://github.com/hkimura/foedus_code/foedus-core).
+*  [foedus_code/foedus-core](https://github.com/hkimura/foedus_code/tree/master/foedus-core).
 
 Links
 --------
