@@ -29,8 +29,8 @@ Links
 --------
 Most Jenkins services were migrated to public cloud, but aarch64 server is still in private network.
 
-* [FOEDUS Jenkins server (x86_64 Fedora 21)](http://http://foedus-build.hpl.hp.com:8080/)
-* [FOEDUS Jenkins server (x86_64 Ubuntu 1504)](http://http://foedus-build-ub.hpl.hp.com:8080/)
-* [FOEDUS Latest Doxygen HTML](http://http://foedus-build.hpl.hp.com:8080/job/foedus-develop-doxygen/doxygen/)
+* [FOEDUS Jenkins server (x86_64 Fedora 21)](http://foedus-build.hpl.hp.com:8080/)
+* [FOEDUS Jenkins server (x86_64 Ubuntu 1504)](http://foedus-build-ub.hpl.hp.com:8080/)
+* [FOEDUS Latest Doxygen HTML](http://foedus-build.hpl.hp.com:8080/job/foedus-develop-doxygen/doxygen/)
 * [HP Labs](http://www.hpl.hp.com/) **We are hiring**.
 * [FOEDUS Jenkins server (aarch64)](http://ms01915-003.hpl.hp.com:8080/) (so far private)
