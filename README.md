@@ -14,10 +14,10 @@ Repositories
 --------
 We have split the original repository into a few sub repositories for easier maintenance.
 
-* [foedus_code](https://github.com/hkimura/foedus_code) : **(Waiting for final Open-Sourcing approval)**  Main source code repository.
+* [foedus_code](https://github.com/hkimura/foedus_code) : **Main source code repository**.
 * [foedus_oa_papers](https://github.com/hkimura/foedus_oa_papers) : Open Access Publication (papers/slides etc) repository.
 * foedus_papers : (So far private) Drafts/Non-OA Publication repository.
-* [foedus_results](https://github.com/hkimura/foedus_results) : **(Waiting for final Open-Sourcing approval)**  Experimental results and other large binary files.
+* [foedus_results](https://github.com/hkimura/foedus_results) : Experimental results and other large binary files.
 
 Most of you would be only interested in [foedus_code](https://github.com/hkimura/foedus_code).
 Especially, start with reading READMEs in these folders:
