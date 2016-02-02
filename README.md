@@ -29,10 +29,9 @@ Links
 --------
 Most Jenkins services were migrated to public cloud, but aarch64 server is still in private network.
 
-* _As HP Helion is shutting down, the following Jenkins URLs will change shortly... but to where. arrrggghhh_
-* [FOEDUS Jenkins server (x86_64 Fedora 21)](http://foedus-build.hpl.hp.com:8080/)
-* [FOEDUS Jenkins server (x86_64 Ubuntu 1504)](http://foedus-build-ub.hpl.hp.com:8080/)
+* [FOEDUS Jenkins server (x86_64 Centos 7.2)](http://cihead.labs.hpe.com/centos7/)
+* [FOEDUS Jenkins server (x86_64 Ubuntu 1404)](http://cihead.labs.hpe.com/ub1404/)
 * [FOEDUS Jenkins server (aarch64 Ubuntu 1404)](http://ms01915-003.hpl.hp.com:8080/) (so far private)
 * [FOEDUS Build Notification Mailing List](https://groups.google.com/forum/#!forum/foedus-build-failure-notification-list)
-* [FOEDUS Latest Doxygen HTML](http://foedus-build.hpl.hp.com:8080/job/foedus-develop-doxygen/doxygen/)
+* [FOEDUS Latest Doxygen HTML](http://cihead.labs.hpe.com/centos7/job/foedus-develop-doxygen/doxygen/)
 * [HP Labs](http://www.hpl.hp.com/) **We are hiring**.
