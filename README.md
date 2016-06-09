@@ -10,6 +10,14 @@ In a nutshell, it is something like BerkeleyDB, but it is much more efficient on
 
 For more details, take a look at the [overview paper](http://www.hpl.hp.com/techreports/2015/HPL-2015-37.html).
 
+Latest News
+--------
+**Jun 8, 2016**: FOEDUS was introduced at [HP Discover 2016](https://www.hpe.com/events/discover/).
+HPE has [announced](https://www.hpe.com/us/en/newsroom/news-archive/featured-article/2016/06/Hewlett-Packard-Enterprise-Puts-The-Machine-In-the-Open.html) its initiative to bring The Machine to open source developers.
+FOEDUS is a part of the initial set of open source tools.
+For more details, check [these](http://community.hpe.com/t5/Behind-the-scenes-Labs/Discover-2016-The-Machine-is-an-open-source-project/ba-p/6865943#.V1mqIrsrJmM) [out](http://labs.hpe.com/research/themachine/TheMachineDistribution/).
+
+
 Repositories
 --------
 We have split the original repository into a few sub repositories for easier maintenance.
