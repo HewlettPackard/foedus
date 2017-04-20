@@ -1,4 +1,4 @@
-[Dashboard] FOEDUS: Fast Optimistic Engine for Data Unification Services
+FOEDUS: Fast Optimistic Engine for Data Unification Services
 =================================
 
 Overview
@@ -8,7 +8,7 @@ for a large number of CPU cores and NVRAM storage (or fast SSD). It is a handy C
 either include in your source code (by invoking CMake script) or dynamically link to.
 In a nutshell, it is something like BerkeleyDB, but it is much more efficient on new hardware.
 
-For more details, take a look at the [overview paper](http://www.hpl.hp.com/techreports/2015/HPL-2015-37.html).
+For more details, take a look at the [overview paper](https://www.labs.hpe.com/publications/HPL-2015-37).
 
 Latest News
 --------
@@ -42,4 +42,3 @@ Most Jenkins services were migrated to public cloud, but aarch64 server is still
 * [FOEDUS Jenkins server (aarch64 Ubuntu 1404)](http://ms01915-003.hpl.hp.com:8080/) (so far private)
 * [FOEDUS Build Notification Mailing List](https://groups.google.com/forum/#!forum/foedus-build-failure-notification-list)
 * [FOEDUS Latest Doxygen HTML](http://cihead.labs.hpe.com/centos7/job/foedus-develop-doxygen/doxygen/)
-* [HP Labs](http://www.hpl.hp.com/) **We are hiring**.
